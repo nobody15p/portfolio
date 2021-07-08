@@ -332,6 +332,12 @@ ul {
     background-color: var(--previewShadow);
 }
 
+#skills-1 {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: var(--previewShadow);
+}
+
 #procedure {
     /* display: flex; */
     justify-content: space-evenly;
